@@ -11,7 +11,8 @@ This is an advanced, modern calculator that allows users to perform basic arithm
 - **Modern UI**: Clean and simple user interface with a stylish design.
 
 ## 📸 Screenshots
-*(Insert screenshots of the app here)*
+![image](https://github.com/user-attachments/assets/4fe8f2af-af4a-49d8-81a6-71034c8f0952)
+
 
 ## 🚀 Demo
 Check out the live demo of the app: [Advanced Calculator Live](#)
